@@ -1,0 +1,19 @@
+{
+  "name": "tb-package-parent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasBeavers/tb-package-parent.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThomasBeavers/tb-package-parent/issues"
+  },
+  "homepage": "https://github.com/ThomasBeavers/tb-package-parent#readme"
+}
