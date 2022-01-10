@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ThomasBeavers/tb-package-parent/issues"
   },
-  "homepage": "https://github.com/ThomasBeavers/tb-package-parent#readme"
+  "homepage": "https://github.com/ThomasBeavers/tb-package-parent#readme",
+  "dependencies": {
+    "tb-package-child-a": "^1.0.0"
+  }
 }
